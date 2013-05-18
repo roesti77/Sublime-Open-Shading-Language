@@ -1,0 +1,18 @@
+{
+	"scope": "source.osl",
+
+	"completions":
+	[
+		{ "trigger": "color()\tfloat f", "contents": "color(${1:f})" },
+		{ "trigger": "color()\tfloat r, float g, float b", "contents": "color(${1:r}, ${2:g}, ${3:b})" },
+		{ "trigger": "color()\tcolorspace, float f", "contents": "color(${1:colorspace}, ${2:f})" },
+		{ "trigger": "color()\tcolorspace, r, g, b", "contents": "color(${1:colorspace}, ${2:r}, ${3:g}, ${4:b})" },
+
+		{ "trigger": "luminance()\tcolor rgb", "contents": "luminance(${1:rgb})" },
+		{ "trigger": "blackbody()\tfloat tempK", "contents": "blackbody(${1:temperatureK})" },
+		{ "trigger": "wavelength_color()\twavelength_nm", "contents": "wavelength_color(${1:wavelength_nm})" },
+
+		{ "trigger": "transformc()\tfrom, to, Cfrom", "contents": "transformc(${1:fromspace}, ${2:tospace}, ${3:Cfrom})" },
+		{ "trigger": "transformc()\ttospace, Cfrom", "contents": "transformc(${1:tospace}, ${2:Cfrom})" }
+	]
+}

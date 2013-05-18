@@ -1,0 +1,36 @@
+{
+	"scope": "source.osl",
+
+	"completions":
+	[
+		{ "trigger": "Dx()\tfloat a", "contents": "Dx(${1:a})"},
+		{ "trigger": "Dy()\tfloat a", "contents": "Dy(${1:a})"},
+		{ "trigger": "Dz()\tfloat a", "contents": "Dz(${1:a})"},
+
+		{ "trigger": "Dx()\tpoint a", "contents": "Dx(${1:a})"},
+		{ "trigger": "Dy()\tpoint a", "contents": "Dy(${1:a})"},
+		{ "trigger": "Dz()\tpoint a", "contents": "Dz(${1:a})"},
+
+		{ "trigger": "Dx()\tvector a", "contents": "Dx(${1:a})"},
+		{ "trigger": "Dy()\tvector a", "contents": "Dy(${1:a})"},
+		{ "trigger": "Dz()\tvector a", "contents": "Dz(${1:a})"},
+
+		{ "trigger": "Dx()\tcolor a", "contents": "Dx(${1:a})"},
+		{ "trigger": "Dy()\tcolor a", "contents": "Dy(${1:a})"},
+		{ "trigger": "Dz()\tcolor a", "contents": "Dz(${1:a})"},
+
+		{ "trigger": "filterwidth()\tfloat x", "contents": "filterwidth(${1:x})"},
+		{ "trigger": "filterwidth()\tpoint x", "contents": "filterwidth(${1:x})"},
+		{ "trigger": "filterwidth()\tvector x", "contents": "filterwidth(${1:x})"},
+
+		{ "trigger": "area()\tpoint p", "contents": "area(${1:p})"},
+		{ "trigger": "calculatenormal()\tpoint p", "contents": "calculatenormal(${1:p})"},
+
+		{ "trigger": "aastep()\tfloat edge, float s", "contents": "aastep(${1:edge}, ${2:s})"},
+		{ "trigger": "aastep()\tedge, s, ds", "contents": "aastep(${1:edge}, ${2:s}, ${3:ds})"},
+		{ "trigger": "aastep()\tedge, s, dedge, ds", "contents": "aastep(${1:edge}, ${2:s}, ${3:dedge}, $4:ds})"},
+		{ "trigger": "aastep()\tedge, s, filter", "contents": "aastep(${1:edge}, ${2:s}, ${3:filter})"},
+		{ "trigger": "aastep()\tedge, s, ds, filter", "contents": "aastep(${1:edge}, ${2:s}, ${3:ds}, ${4:filter})"},
+		{ "trigger": "aastep()\tedge, s, dedge, ds, filter", "contents": "aastep(${1:edge}, ${2:s}, ${3:dedge}, $4:ds}, ${5:filter})"}
+	]
+}

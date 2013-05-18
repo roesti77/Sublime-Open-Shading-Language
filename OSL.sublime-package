@@ -1,0 +1,26 @@
+{
+	"folders":
+	[
+		{
+			"path": "/home/roesti/.config/sublime-text-2/Packages/OpenShadingLanguage"
+		},
+		{
+			"path": "/home/roesti/.config/sublime-text-2/Packages/OpenGL Shading Language (GLSL)"
+		},
+		{
+			"path": "/home/roesti/Daten/Dropbox/own/OSL"
+		},
+		{
+			"path": "/home/roesti/.config/sublime-text-2/Packages/C++"
+		},
+		{
+			"path": "/home/roesti/.config/sublime-text-2/Packages/Python"
+		},
+		{
+			"path": "/home/roesti/.config/sublime-text-2/Packages/Java"
+		},
+		{
+			"path": "/home/roesti/.config/sublime-text-2/Packages/AAAPackageDev"
+		}
+	]
+}

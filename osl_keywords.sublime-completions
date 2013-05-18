@@ -1,0 +1,78 @@
+{
+	"scope": "source.osl",
+
+	"completions":
+	[
+		/*keywords*/
+		{ "trigger": "closure", "contents" : "closure" },
+		{ "trigger": "continue", "contents": "continue" },
+		{ "trigger": "emit", "contents" : "emit" },
+		{ "trigger": "illuminance", "contents" : "illuminance" },
+		{ "trigger": "illuminate", "contents" : "illuminate" },
+		{ "trigger": "output", "contents" : "output" },
+
+		/*reserved words*/
+		{ "trigger": "friend", "contents": "friend" },
+		{ "trigger": "inline", "contents": "inline" },
+		{ "trigger": "operator", "contents": "operator" },
+		{ "trigger": "template", "contents": "template" },
+		{ "trigger": "typedef", "contents": "typedef" },
+		{ "trigger": "uniform", "contents": "uniform" },
+		{ "trigger": "varying", "contents": "varying" },
+		{ "trigger": "virtual", "contents": "virtual" },
+		{ "trigger": "volatile", "contents": "volatile" },
+		{ "trigger": "bool", "contents": "bool" },
+		{ "trigger": "struct", "contents": "struct" },
+
+		/*shader types*/
+		{ "trigger": "surface", "contents": "surface" },
+		{ "trigger": "displacement", "contents": "displacement" },
+		{ "trigger": "light", "contents": "light" },
+		{ "trigger": "volume", "contents": "volume" },
+		{ "trigger": "shader", "contents": "shader" },
+
+		/*data types*/
+		{ "trigger": "int", "contents": "int" },
+		{ "trigger": "float", "contents": "float" },
+		{ "trigger": "point", "contents": "point" },
+		{ "trigger": "vector", "contents": "vector" },
+		{ "trigger": "normal", "contents" : "normal" },
+		{ "trigger": "color", "contents" : "color" },
+		{ "trigger": "matrix", "contents" : "matrix" },
+		{ "trigger": "string", "contents": "string" },
+		{ "trigger": "void", "contents": "void" },
+
+		/*metadata*/
+		{ "trigger": "description", "contents": "description" },
+		{ "trigger": "URL", "contents": "URL" },
+		{ "trigger": "units", "contents": "units" },
+		{ "trigger": "normalized", "contents": "normalized" },
+		{ "trigger": "UIlabel", "contents": "UIlabel" },
+		{ "trigger": "UImin", "contents": "UImin" },
+		{ "trigger": "UImax", "contents": "UImax" },
+		{ "trigger": "UIsoftmin", "contents": "UIsoftmin" },
+		{ "trigger": "UIsoftmax", "contents": "UIsoftmax" },
+		{ "trigger": "UIstep", "contents": "UIstep" },
+		{ "trigger": "UIenabler", "contents": "UIenabler" },
+		{ "trigger": "UIseparator", "contents": "UIseparator" },
+		{ "trigger": "IOgroupbegin", "contents": "IOgroupbegin" },
+		{ "trigger": "UIgroupend", "contents": "UIgroupend" },
+		{ "trigger": "UItype", "contents": "UItype" },
+
+		{ "trigger": "texture", "contents": "texture" },
+		{ "trigger": "environment", "contents": "environment" },
+		{ "trigger": "shadow", "contents": "shadow" },
+		{ "trigger": "geometyset", "contents": "geometyset" },
+		{ "trigger": "coordsys", "contents": "coordsys" },
+		{ "trigger": "enum", "contents": "enum" },
+
+		/*geometric spaces*/
+		{ "trigger": "common", "contents": "common" },
+		{ "trigger": "object", "contents": "object" },
+		{ "trigger": "world", "contents": "world" },
+		{ "trigger": "camera", "contents": "camera" },
+		{ "trigger": "screen", "contents": "screen" },
+		{ "trigger": "raster", "contents": "raster" },
+		{ "trigger": "NDC", "contents": "NDC" }
+	]
+}

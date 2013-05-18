@@ -1,0 +1,9 @@
+{
+	"scope": "source.osl",
+
+	"completions":
+	[
+		{ "trigger": "exit()", "contents": "exit()"},
+		{ "trigger": "arraylength()\ttype A[]", "contents": "arraylength(${1:A[]})" }
+	]
+}

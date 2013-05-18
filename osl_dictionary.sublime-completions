@@ -1,0 +1,12 @@
+{
+	"scope": "source.osl",
+
+	"completions":
+	[
+		{ "trigger": "dict_find()\tdictionary, query", "contents": "dict_find(${1:dictionary}, ${2:query})"},
+		{ "trigger": "dict_find()\tnodeID, query", "contents": "dict_find(${1:nodeID}, ${2:query})"},
+		{ "trigger": "dict_next()\tint nodeID", "contents": "dict_next(${1:nodeID})"},
+		{ "trigger": "dict_value()\tnodeID, attrib, value", "contents": "dict_value(${1:nodeID}, ${2:attribname}, ${3:value})"},
+		{ "trigger": "trace()\tpos, dir, ...", "contents": "trace(${1:pos}, ${2:dir}, ${3:params...})"}
+	]
+}

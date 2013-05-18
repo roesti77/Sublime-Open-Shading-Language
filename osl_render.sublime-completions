@@ -1,0 +1,19 @@
+{
+	"scope": "source.osl",
+
+	"completions":
+	[
+		{ "trigger": "getattribute()\tname, destination", "contents": "getattribute(${1:name}, ${2:destination})"},
+		{ "trigger": "getattribute()\tname, index, destination", "contents": "getattribute(${1:name}, ${2:arrayindex}, ${3:destination})"},
+		{ "trigger": "getattribute()\tobject, name, destination", "contents": "getattribute(${1:object}, ${2:name}, ${3:destination})"},
+		{ "trigger": "getattribute()\tobject, name, index, destination", "contents": "getattribute(${1:object}, ${2:name}, ${3:arrayindex}, ${4:destination})"},
+
+		{ "trigger": "setmessage()\tname, value", "contents": "setmessage(${1:name}, ${2:value})"},
+
+		{ "trigger": "getmessage()\tname, destination", "contents": "getmessage(${1:name}, ${2:destination})"},
+		{ "trigger": "getattribute()\tsource, name, destination", "contents": "getattribute(${1:source}, ${2:name}, ${3:destination})"},
+		{ "trigger": "surfacearea()", "contents": "surfacearea($1)"},
+		{ "trigger": "raytype()\tstring name", "contents": "raytype(${1:name})"},
+		{ "trigger": "isconnected()\ttype parameter", "contents": "isconnected(${1:parameter})"}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"scope": "source.osl",
+
+	"completions":
+	[
+		{ "trigger": "displace()\tfloat amp", "contents": "displace(${1:amp})"},
+		{ "trigger": "displace()\tspace, amp", "contents": "displace(${1:space}, ${2:amp})"},
+		{ "trigger": "displace()\tvector offset", "contents": "displace(${1:offset})"},
+
+		{ "trigger": "bump()\tfloat amp", "contents": "bump(${1:amp})"},
+		{ "trigger": "bump()\tspace, amp", "contents": "bump(${1:space}, ${2:amp})"},
+		{ "trigger": "bump()\tvector offset", "contents": "bump(${1:offset})"}
+	]
+}

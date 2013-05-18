@@ -1,0 +1,37 @@
+{
+	"scope": "source.osl",
+
+	"completions":
+	[
+		/*global variables*/
+		{ "trigger": "P", "contents": "P" },
+		{ "trigger": "I", "contents": "I" },
+		{ "trigger": "N", "contents": "N" },
+		{ "trigger": "Ng", "contents": "Ng" },
+		{ "trigger": "u", "contents": "u" },
+		{ "trigger": "v", "contents": "v" },
+		{ "trigger": "dPdu", "contents": "dPdu" },
+		{ "trigger": "dPdv", "contents": "dPdv" },
+		{ "trigger": "Ps", "contents": "Ps" },
+		{ "trigger": "time", "contents": "time" },
+		{ "trigger": "dtime", "contents": "dtime" },
+		{ "trigger": "dPdtime", "contents": "dPdtime" },
+		{ "trigger": "Ci", "contents": "Ci" },
+
+		/*mathematical constants*/
+		{ "trigger": "M_PI\tπ", "contents": "M_PI" },
+		{ "trigger": "M_PI_2\tπ\/2", "contents": "M_PI_2" },
+		{ "trigger": "M_PI_4\tπ\/4", "contents": "M_PI_4" },
+		{ "trigger": "M_2_PI\t2\/π", "contents": "M_2_PI" },
+		{ "trigger": "M_2PI\t2π", "contents": "M_2PI" },
+		{ "trigger": "M_4PI\t4π", "contents": "M_4PI" },
+		{ "trigger": "M_2_SQRTPI\t2\/√π", "contents": "M_2_SQRTPI" },
+		{ "trigger": "M_E\te", "contents": "M_E" },
+		{ "trigger": "M_LN2\tln 2", "contents": "M_LN2" },
+		{ "trigger": "M_LN10\tln 10", "contents": "M_LN10" },
+		{ "trigger": "M_LOG2E\tlog 2 e", "contents": "M_LOG2E" },
+		{ "trigger": "LOG10E\tlog 10 e", "contents": "LOG10E" },
+		{ "trigger": "M_SQRT2\t√2", "contents": "M_SQRT2" },
+		{ "trigger": "M_SQTR1_2\t√1\/2", "contents": "M_SQTR1_2" }
+	]
+}

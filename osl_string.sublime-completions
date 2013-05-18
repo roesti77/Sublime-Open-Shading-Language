@@ -1,0 +1,25 @@
+{
+	"scope": "source.osl",
+
+	"completions":
+	[
+		{ "trigger": "printf()", "contents": "printf($1)"},
+		{ "trigger": "format()", "contents": "format($1)"},
+		{ "trigger": "error()", "contents": "error($1)"},
+		{ "trigger": "warning()", "contents": "warning($1)"},
+		{ "trigger": "fprintf()", "contents": "fprintf($1)"},
+		{ "trigger": "concat()", "contents": "concat($1)"},
+		{ "trigger": "strlen()\tstring s", "contents": "strlen(${1:s})"},
+		{ "trigger": "startswith()\tstring s, string prefix", "contents": "startswith(${1:s}, ${2:prefix})"},
+		{ "trigger": "endswith()\tstring s, string suffix", "contents": "endswith(${1:s}, ${2:suffix})"},
+
+		{ "trigger": "substr()\tstring s, int start, int length", "contents": "substr(${1:s}, ${2:start}, ${3:length})"},
+		{ "trigger": "substr()\tstring s, int start", "contents": "substr(${1:s}, ${2:start})"},
+
+		{ "trigger": "regex_search()\tsubject, regex", "contents": "regex_search(${1:subject}, ${2:regex})"},
+		{ "trigger": "regex_search()\tsubject, results[], regex", "contents": "regex_search(${1:subject}, ${2:results[]}, ${3:regex})"},
+
+		{ "trigger": "regex_match()\tsubject, regex", "contents": "regex_match(${1:subject}, ${2:regex})"},
+		{ "trigger": "regex_match()\tsubject, results[], regex", "contents": "regex_match(${1:subject}, ${2:results[]}, ${3:regex})"}
+	]
+}

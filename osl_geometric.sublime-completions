@@ -1,0 +1,39 @@
+{
+	"scope": "source.osl",
+
+	"completions":
+	[
+		{ "trigger": "ptype()\tfloat x", "contents": "ptype(${1:f})" },
+		{ "trigger": "ptype()\tfloat x, float y, float z", "contents": "ptype(${1:x}, ${2:y}, ${3:z})" },
+		{ "trigger": "ptype()\tstring space, f", "contents": "ptype(${1:space}, ${2:f})" },
+		{ "trigger": "ptype()\tspace, x, y, z", "contents": "ptype(${1:space}, ${2:x}, ${3:y}, ${4:z})" },
+
+		{ "trigger": "dot()\tvector A, vector B", "contents": "dot(${1:A}, ${2:B})" },
+		{ "trigger": "cross()\tvector A, vector B", "contents": "cross(${1:A}, ${2:B})" },
+
+		{ "trigger": "length()\tvector V", "contents": "length(${1:V})" },
+		{ "trigger": "length()\tnormal V", "contents": "length(${1:V})" },
+
+		{ "trigger": "distance()\tpoint P0, point P1", "contents": "distance(${1:P0}, ${2:P1})" },
+		{ "trigger": "distance()\tP0, P1,point Q", "contents": "distance(${1:P0}, ${2:P1}, ${3:Q})" },
+
+		{ "trigger": "normalize()\tvector V", "contents": "normalize(${1:V})" },
+		{ "trigger": "normalize()\tnormal V", "contents": "normalize(${1:V})" },
+
+		{ "trigger": "faceforward()\tN, I, vector Nref", "contents": "faceforward(${1:N}, ${2:I}, ${3:Nref})" },
+		{ "trigger": "faceforward()\tvector N, vector I", "contents": "faceforward(${1:N}, ${2:I})" },
+
+		{ "trigger": "reflect()\tvector I, vector N", "contents": "reflect(${1:I}, ${2:N})" },
+		{ "trigger": "refract()\tI, N, float eta", "contents": "refract(${1:I}, ${2:N}, ${3:eta})" },
+
+		{ "trigger": "fresnel()\tI,N,eta,Kr,Kt,R,T", "contents": "fresnel(${1:I}, ${2:N}, ${3:eta}, ${4:Kr}, ${5:Kt}, ${6:R}, ${7:T})" },
+
+		{ "trigger": "rotate()\tQ, angle, P0, P1", "contents": "rotate(${1:Q}, ${2:angle}, ${3:P0}, ${4:P1})" },
+
+		{ "trigger": "transform()\ttospace, p", "contents": "transform(${1:tospace}, ${2:p})" },
+		{ "trigger": "transform()\tfromespace, tospace, p", "contents": "transform(${1:fromspace}, ${2:tospace}, ${3:p})" },
+		{ "trigger": "transform()\tMto, p", "contents": "transform(${1:Mto}, ${2:p})" },
+		{ "trigger": "transformu()\ttounits, x", "contents": "transformu(${1:tounits}, ${2:x})" },
+		{ "trigger": "transformu()\tfromeunits, tounits, x", "contents": "transformu(${1:fromunits}, ${2:tounits}, ${3:x})" }
+	]
+}

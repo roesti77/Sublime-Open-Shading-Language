@@ -1,0 +1,22 @@
+{
+	"scope": "source.osl",
+
+	"completions":
+	[
+		{ "trigger": "diffuse()\tnormal N, params", "contents": "diffuse(${1:N}, ${2:params...})"},
+		{ "trigger": "orennayar()\tN, roughness, params", "contents": "orennayar(${1:N}, ${2:roughness}, ${3:params...})"},
+		{ "trigger": "phong()\tN, exponent, params", "contents": "phong(${1:N}, ${2:exponent}, ${3:params...})"},
+		{ "trigger": "cooktorrance()\tN, roughness, params", "contents": "cooktorrance(${1:N}, ${2:roughness}, ${3:params...})"},
+		{ "trigger": "ward()\tN, T, ...", "contents": "ward(${1:N}, ${2:T}, ${3:xrough}, ${4:yrough}, ${5:params...})"},
+		{ "trigger": "microfacet_beckmann()\tN, roughness, ...", "contents": "microfacet_beckmann(${1:N}, ${2:roughness}, ${3:eta}, ${4:params...})"},
+		{ "trigger": "microfacet_ggx()\tN, roughness, ...", "contents": "microfacet_ggx(${1:N}, ${2:roughness}, ${3:eta}, ${4:params...})"},
+		{ "trigger": "reflection()\tN, eta, params", "contents": "reflection(${1:N}, ${2:eta}, ${3:params...})"},
+		{ "trigger": "refraction()\tN, eta, params", "contents": "refraction(${1:N}, ${2:eta}, ${3:params...})"},
+		{ "trigger": "dielectric()\tN, eta, params", "contents": "dielectric(${1:N}, ${2:eta}, ${3:params...})"},
+		{ "trigger": "transparent()\tparams", "contents": "transparent(${1:params...})"},
+		{ "trigger": "translucence()\tparams", "contents": "translucence(${1:params...})"},
+		{ "trigger": "subsurface()\tparams", "contents": "subsurface(${1:params...})"},
+		{ "trigger": "emission()\tparams", "contents": "emission(${1:params...})"},
+		{ "trigger": "emission()\taxis, angle, params", "contents": "emission(${1:axis}, ${2:angle}, ${3:params...})"}		
+	]
+}

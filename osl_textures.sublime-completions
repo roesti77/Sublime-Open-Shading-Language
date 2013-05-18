@@ -1,0 +1,23 @@
+{
+	"scope": "source.osl",
+
+	"completions":
+	[
+		{ "trigger": "texture()\tfile, s, t, params", "contents": "texture(${1:filename}, ${2:s}, ${3:t}, ${4:params...})"},
+		{ "trigger": "texture()\tfile, s, t, dsdx", "contents": "texture(${1:filename}, ${2:s}, ${3:t}, ${4:dsdx}, ${5:dsdy}, ${6:dtdy}, ${7:params...})"},
+
+		{ "trigger": "texture3d()\tfile, s, t, params", "contents": "texture3d(${1:filename}, ${2:s}, ${3:t}, ${4:params...})"},
+		{ "trigger": "texture3d()\tfile, s, t, dsdx", "contents": "texture3d(${1:filename}, ${2:s}, ${3:t}, ${4:dsdx}, ${5:dsdy}, ${6:dtdy}, ${7:params...})"},
+
+		{ "trigger": "environment()\tfile, R, params", "contents": "environment(${1:filename}, ${2:R}, ${3:params...})"},
+		{ "trigger": "environment()\tfile, R, dRdx, dRdy, params", "contents": "environment(${1:filename}, ${2:R}, ${3:dRdx}, ${4:dRdy}, ${5:params...})"},
+
+		{ "trigger": "gettextureinfo()\tfile, param, destination", "contents": "gettextureinfo(${1:filename}, ${2:paramname}, ${3:destination})"},
+
+		{ "trigger": "pointcloud_search()\tptcname, pos, radius...", "contents": "pointcloud_search(${1:ptcname}, ${2:pos}, ${3:radius}, ${4:maxpoints}, ${5:sort}, ${6:attr}, ${7:data[]}, $8, ${9:attrN}, ${10:dataN})"},
+
+		{ "trigger": "pointcloud_get()\tptcname, indices...", "contents": "pointcloud_get(${1:ptcname}, ${2:indices}, ${3:count}, ${4:attr}, ${5:data[]})"},
+
+		{ "trigger": "pointcloud_write()\tptcname, pos...", "contents": "pointcloud_write(${1:ptcname}, ${2:pos}, ${3:attr1}, ${4:data1}, $5)"}
+	]
+}

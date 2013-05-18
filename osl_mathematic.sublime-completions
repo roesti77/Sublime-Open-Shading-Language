@@ -1,0 +1,72 @@
+{
+	"scope": "source.osl",
+
+	"completions":
+	[
+		{ "trigger": "radians()\ttype deg","contents": "radians(${1:deg})" },
+		{ "trigger": "degrees()\ttype rad", "contents": "degrees(${1:rad})" },
+
+		{ "trigger": "cos()\ttype x", "contents": "cos(${1:x})" },
+		{ "trigger": "sin()\ttype x", "contents": "sin(${1:x})" },
+		{ "trigger": "tan()\ttype x", "contents": "tan(${1:x})" },
+
+		{ "trigger": "sincos()\tx, sinval, cosval", "contents": "sincos(${1:x}, ${2:sinval}, ${3:cosval})" },
+
+		{ "trigger": "acos()\ttype x", "contents": "acos(${1:x})" },
+		{ "trigger": "asin()\ttype y", "contents": "asin(${1:y})" },
+		{ "trigger": "atan()\ttype y_over_x", "contents": "atan(${1:y_over_x})" },
+		{ "trigger": "atan2()\ttype y, type x", "contents": "atan2(${1:y}, ${2:x})" },
+
+		{ "trigger": "cosh()\ttype x", "contents": "cosh(${1:x})" },
+		{ "trigger": "sinh()\ttype x", "contents": "sinh(${1:x})" },
+		{ "trigger": "tanh()\ttype x", "contents": "tanh(${1:x})" },
+
+		{ "trigger": "pow()\ttype x, type y", "contents": "pow(${1:x}, ${2:y})" },
+		{ "trigger": "pow()\ttype x, float y", "contents": "pow(${1:x}, ${2:y})" },
+
+		{ "trigger": "exp()\ttype x", "contents": "exp(${1:x})" },
+		{ "trigger": "exp2()\ttype x", "contents": "exp2(${1:x})" },
+		{ "trigger": "expm1()\ttype x", "contents": "expm1(${1:x})" },
+
+		{ "trigger": "log()\ttype x", "contents": "log(${1:x})" },
+		{ "trigger": "log2()\ttype x", "contents": "log2(${1:x})" },
+		{ "trigger": "log10()\ttype x", "contents": "log10(${1:x})" },
+		{ "trigger": "log()\ttype x, float b", "contents": "log(${1:x}, ${2:b})" },
+		{ "trigger": "logb()\ttype x", "contents": "logb(${1:x})" },
+
+		{ "trigger": "sqrt()\ttype x", "contents": "sqrt(${1:x})" },
+		{ "trigger": "inversesqrt()\ttype x", "contents": "inversesqrt(${1:x})" },
+
+		{ "trigger": "hypot()\tfloat x, float y", "contents": "hypot(${1:x}, ${2:y})" },
+		{ "trigger": "hypot()\tfloat x, float y, float z", "contents": "hypot(${1:x}, ${2:y}, ${3:z})" },
+
+		{ "trigger": "abs()\ttype x", "contents": "abs(${1:x})" },
+		{ "trigger": "fabs()\ttype x", "contents": "fabs(${1:x})" },
+
+		{ "trigger": "sign()\ttype x", "contents": "sign(${1:x})" },
+
+		{ "trigger": "floor()\ttype x", "contents": "floor(${1:x})" },
+		{ "trigger": "ceil()\ttype x", "contents": "ceil(${1:x})" },
+		{ "trigger": "round()\ttype x", "contents": "round(${1:x})" },
+		{ "trigger": "trunc()\ttype x", "contents": "trunc(${1:x})" },
+
+		{ "trigger": "fmod()\ttype x, type y", "contents": "fmod(${1:a}, ${2:b})" },
+		{ "trigger": "mod()\ttype x, type y", "contents": "mod(${1:a}, ${2:b})" },	
+
+		{ "trigger": "min()\ttype x, type y", "contents": "min(${1:a}, ${2:b})" },
+		{ "trigger": "max()\ttype x, type y", "contents": "max(${1:a}, ${2:b})" },
+		{ "trigger": "clamp()\ttype x, type y, type maxval", "contents": "clamp(${1:a}, ${2:b}, ${3:maxval})" },
+
+
+		{ "trigger": "mix()\ttype x, type y, type alpha", "contents": "mix(${1:a}, ${2:b}, ${3:alpha})" },
+		{ "trigger": "mix()\ttype x, type y, float alpha", "contents": "mix(${1:a}, ${2:b}, ${3:alpha})" },
+
+		{ "trigger": "isnan()\tfloat x", "contents": "isnan(${1:x})" },
+		{ "trigger": "isinf()\tfloat x", "contents": "isinf(${1:x})" },
+		{ "trigger": "isfinite()\tfloat x", "contents": "isfinite(${1:x})" },
+
+		{ "trigger": "erf()\tfloat x", "contents": "erf(${1:x})" },
+		{ "trigger": "erfc()\tfloat x", "contents": "erfc(${1:x})" }
+
+	]
+}

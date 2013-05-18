@@ -1,0 +1,1379 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inclu",
+				"includegraphicstotab"
+			],
+			[
+				"agr",
+				"AgrajagActivity"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/roesti/Daten/Dropbox/Dropbox/own/OSL/test2.osl",
+			"settings":
+			{
+				"buffer_size": 107,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/roesti/Daten/Dropbox/Dropbox/own/OSL/ramp.osl",
+			"settings":
+			{
+				"buffer_size": 551,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/roesti/Daten/Dropbox/Dropbox/own/OSL/ramp.osl",
+			"settings":
+			{
+				"buffer_size": 356,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/roesti/.config/sublime-text-2/Packages/LaTeXTools/LaTeX.sublime-build",
+			"settings":
+			{
+				"buffer_size": 4232,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "osl.sublime-build",
+			"settings":
+			{
+				"buffer_size": 496,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/OpenShadingLanguage/osl.sublime-build",
+	"command_palette":
+	{
+		"height": 204.0,
+		"selected_items":
+		[
+			[
+				"ss open",
+				"Set Syntax: Open Shading Language"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: subs",
+				"Snippet: Sub Section"
+			],
+			[
+				"Snippet: sub",
+				"Snippet: Sub Section"
+			],
+			[
+				"Snippet: f",
+				"Snippet: figuregraphicstotab"
+			],
+			[
+				"ss xml",
+				"Set Syntax: XML"
+			],
+			[
+				"ss x",
+				"Set Syntax: XML"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: gra",
+				"Snippet: graphicstotab"
+			],
+			[
+				"merge",
+				"Sublimerge: View Diff"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"git ",
+				"Git: Fetch"
+			],
+			[
+				"git",
+				"Git: Diff Tool All"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"ali",
+				"Align Tabular"
+			],
+			[
+				"ss javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"SS Lat",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"sho",
+				"Show TODOs: Open files only"
+			],
+			[
+				"to",
+				"Show TODOs: Open files only"
+			],
+			[
+				"shoe",
+				"Show TODOs: Open files only"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: l",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"remove P",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"note",
+				"Snippet: note"
+			],
+			[
+				"add",
+				"Snippet: add"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"all ",
+				"Bookmarks: Select All"
+			],
+			[
+				"ss bi",
+				"Set Syntax: BibTeX"
+			],
+			[
+				"ss bib",
+				"Set Syntax: BibTeX"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"Be",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"ss late",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"Snippet: sec",
+				"Snippet: Section"
+			],
+			[
+				"package in	",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Description"
+			],
+			[
+				"insal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 234.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/roesti/.config/sublime-text-2/Packages/OpenShadingLanguage/Main.sublime-menu",
+		"/home/roesti/Daten/sonstiges/Programming/Agrajag/Test/assets/wohnung.x3d",
+		"/home/roesti/Daten/sonstiges/Programming/Agrajag/Test/assets/switch.x3d",
+		"/home/roesti/Daten/Dropbox/Dropbox/own/OSL/ramp.osl",
+		"/home/roesti/.config/sublime-text-2/Packages/OpenShadingLanguage/osl.JSON-tmLanguage",
+		"/home/roesti/.config/sublime-text-2/Packages/OpenShadingLanguage/osl.JSON-tmPreferences",
+		"/home/roesti/.config/sublime-text-2/Packages/OpenGL Shading Language (GLSL)/GLSL.tmLanguage",
+		"/home/roesti/Daten/Dropbox/Dropbox/own/OSL/test.osl",
+		"/home/roesti/Desktop/test.osl",
+		"/home/roesti/.config/sublime-text-2_ba/Backup/20121211144111/Prolog/Prolog.JSON-tmLanguage",
+		"/home/roesti/.config/sublime-text-2/Packages/OpenShadingLanguage/osl.tmLanguage",
+		"/home/roesti/.config/sublime-text-2/Packages/OpenShadingLanguage/osl",
+		"/home/roesti/Uni/Bachelorarbeit/matze_header.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/02-Stand_der_Technik/Frameworks/ARMSK.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/02-Stand_der_Technik/Frameworks/ARToolkit.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/05-Uebersicht_SSIML/Uebersicht.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/06-Implementierung_einer_Beispielanwendung/Implementierung.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/Quellen/Bachelorarbeit.bib",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/05-Uebersicht_SSIML/SSIML.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/06-Uebersicht_SSIML/SSIML.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/06-Uebersicht_SSIML/SSIML_AR.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/06-Zusammenfassung/SSIML.tex",
+		"/home/roesti/Bachelorarbeit.sublime-project",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/Bachelorarbeit.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/05-Implementierung_einer_Beispielanwendung/Implementierung.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/05-Implementierung_einer_Beispielanwendung/SSIML.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/05-Implementierung_einer_Beispielanwendung/SSIML_AR.tex",
+		"/home/roesti/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/roesti/.config/sublime-text-2/Packages/AdvancedNewFile/Default (Linux).sublime-keymap",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/Quellen/Abkuerzung.tex",
+		"/usr/local/src/blender/build/bin/2.66/scripts/modules/bpy/__init__.py",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/03-GrundlagenAR/Technik/Displays/Video_See_Through.tex",
+		"/home/roesti/Uni/Bachelorarbeit/SSIML/workspace/AgrajagExample/src/wohnungApplicationClass.java",
+		"/home/roesti/Uni/Bachelorarbeit/SSIML/workspace/AgrajagExample/src/wohnung.java",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/03-GrundlagenAR/Technik/Displays/Optical_See_Through.tex",
+		"/usr/local/src/blender/build/bin/2.66/scripts/setup_py.py",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/03-GrundlagenAR/Technik/Tracking/Optisches_Tracking.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/03-GrundlagenAR/Technik/Tracking/Markerloses_Tracking.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/03-GrundlagenAR/Technik/Displays.tex",
+		"/home/roesti/.config/sublime-text-2/Packages/User/Latex/figuregraphicstotab.sublime-snippet",
+		"/home/roesti/Uni/Bachelorarbeit/SSIML/workspace/AgrajagExample/src/agrajagExample.x3d",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/04-Uebersicht_des_Frameworks/Design.tex",
+		"/home/roesti/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/roesti/Uni/Bachelorarbeit/SSIML/workspace/AgrajagExample/agrajagExample.smf",
+		"/home/roesti/.config/sublime-text-2/Packages/XML/XML.tmLanguage",
+		"/home/roesti/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/roesti/.config/sublime-text-2/Packages/LaTeX/section-..-(section).sublime-snippet",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/TODO",
+		"/home/roesti/.config/sublime-text-2/Packages/LaTeX/Section.sublime-snippet",
+		"/home/roesti/Uni/Bachelorarbeit/Agrajag/Doku/latex/refman.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Agrajag/Doku/latex/d7/d46/a00002.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Agrajag/Doku/latex/d1/d2b/a00018.tex",
+		"/home/roesti/Daten/sonstiges/Programming/Agrajag/Test/assets/wohnung/bench.x3d",
+		"/home/roesti/Daten/sonstiges/Programming/Agrajag/Test/assets/wohnung/desk.x3d",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/03-GrundlagenAR/Technik/Tracking.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/bachelorarbeit.sty",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/02-Stand_der_Technik/Frameworks/Vuforia.tex",
+		"/home/roesti/.config/sublime-text-2/Packages/Sublimerge/Default (Linux).sublime-keymap",
+		"/home/roesti/.config/sublime-text-2/Packages/iTodo/Default (Linux).sublime-keymap",
+		"/home/roesti/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/03-GrundlagenAR/Technik/Scenengraph.tex",
+		"/home/roesti/Uni/7. Semester/VR-Projekt/doc/Dokumentation/dokumentation.sty",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/02-Stand_der_Technik/Frameworks/AndAR.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Agrajag/Test/assets/cube2.x3d",
+		"/home/roesti/Uni/Bachelorarbeit/Agrajag/Test/assets/cube1.x3d",
+		"/home/roesti/Uni/Bachelorarbeit/Agrajag/Test/assets/monkey1.x3d",
+		"/home/roesti/Uni/Bachelorarbeit/Agrajag/Test/assets/blendchair.x3d",
+		"/home/roesti/Uni/Bachelorarbeit/Agrajag/Test/assets/switch.x3d",
+		"/home/roesti/Uni/Bachelorarbeit/Agrajag/Test/assets/switch_test.x3d",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/06-Zusammenfassung/Abkuerzung.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/02-Stand_der_Technik/Aktuelle_Frameworks.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/03-GrundlagenAR/Anwendungsgebiete/Werbung.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/02-Stand_der_Technik/Frameworks/MetaIO.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/03-GrundlagenAR/Anwendungsgebiete/Industrie.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/03-GrundlagenAR/Uebersicht.tex",
+		"/home/roesti/Daten/sonstiges/Programming/Agrajag/Test/assets/cube1.x3d",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/01-Einleitung/Einleitung.tex",
+		"/home/roesti/sdm",
+		"/home/roesti/SdmDownloadFaq.aspx?ws=bb976544-849b-e011-969d-0030487d8897&amp;secure=1",
+		"/home/roesti/Daten/sonstiges/Programming/Agrajag/Test/assets/chassis.x3d",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/03-GrundlagenAR/Anwendungsgebiete/Automobil.tex",
+		"/home/roesti/.config/sublime-text-2/Packages/User/Latex/acf.sublime-snippet",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/06-Zusammenfassung/Zusammenfassung.tex",
+		"/home/roesti/Daten/sonstiges/Programming/slpo-android/slpoAndroid/src/org/slpo/minecraft/network/MinequeryChecker.java",
+		"/home/roesti/Daten/sonstiges/Programming/Agrajag/Test/assets/cube3.x3d",
+		"/home/roesti/Daten/sonstiges/Programming/creating-a-game-in-java-youtube-series/AngryMasons/src/com/riley/angrymasons/Model/MoveableEntity.java",
+		"/home/roesti/Daten/sonstiges/Programming/creating-a-game-in-java-youtube-series/AngryMasons/src/com/riley/angrymasons/Model/Ship.java",
+		"/home/roesti/Daten/sonstiges/Programming/creating-a-game-in-java-youtube-series/AngryMasons/src/com/riley/angrymasons/Model/Entity.java",
+		"/home/roesti/Daten/sonstiges/Programming/creating-a-game-in-java-youtube-series/AngryMasons/src/com/riley/angrymasons/Model/Enemy.java",
+		"/home/roesti/Daten/sonstiges/Programming/creating-a-game-in-java-youtube-series/AngryMasons/src/com/riley/angrymasons/View/WorldRenderer.java",
+		"/home/roesti/Daten/sonstiges/Programming/creating-a-game-in-java-youtube-series/AngryMasons/src/com/riley/angrymasons/View/World.java",
+		"/home/roesti/Uni/sonstiges/test/präsentation.tex",
+		"/home/roesti/Uni/5. Semester/Seminararbeit/Präsentation/präsentation.tex",
+		"/home/roesti/Uni/sonstiges/test/test.tex",
+		"/home/roesti/Dropbox/share/Verlängerung/Verlaengerung.tex",
+		"/home/roesti/Uni/7. Semester/VR-Projekt/doc/Ausarbeitung/Dokumentation.tex",
+		"/home/roesti/Uni/seminararbeit/Praesentation/präsentation.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/02-Stand_der_Technik/Frameworks/Popcode.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/04-Uebersicht_des_Frameworks/API.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/04-Uebersicht_des_Frameworks/Implementierung.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/05-Implementierung_einer_Beispielanwendung/Implementierung_Agrajag.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/05-Implementierung_einer_Beispielanwendung/Implementierung_SSIML_AR.tex",
+		"/home/roesti/.config/sublime-text-2/Packages/LaTeXTools/Default (Linux).sublime-keymap",
+		"/home/roesti/.config/sublime-text-2/Packages/Python PEP8 Autoformat/Default (Linux).sublime-keymap",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/AndAR.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/MetaIO.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/ARToolkit.tex",
+		"/usr/local/src/blender/build/bin/2.64/scripts/addons/io_scene_x3d/export_x3d.py",
+		"/usr/local/src/blender/build/bin/2.64/scripts/addons/io_scene_x3d/__init__.py",
+		"/usr/local/src/blender/build/bin/2.64/scripts/addons_contrib/object_edit_linked.py",
+		"/home/roesti/Daten/sonstiges/Programming/GrandMA2Remote/GrandMA2Remote/src/org/roesti/grandma2/activity/ControlActivity.java",
+		"/home/roesti/.config/sublime-text-2/Packages/User/Latex/comment.sublime-snippet",
+		"/home/roesti/.config/sublime-text-2/Packages/SublimeTODO/Default.sublime-commands",
+		"/home/roesti/.config/sublime-text-2/Packages/User/LaTeXTools Preferences.sublime-settings",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/03-GrundlagenAR/Grundlagen.tex",
+		"/home/roesti/.config/sublime-text-2/Packages/User/LaTeX.sublime-settings",
+		"/home/roesti/.config/sublime-text-2/Packages/LaTeX Track Changes/README.rst",
+		"/home/roesti/.config/sublime-text-2/Packages/LaTeX/LaTeX.tmLanguage",
+		"/home/roesti/.config/sublime-text-2/Packages/LaTeXTools/LaTeX.sublime-build",
+		"/usr/share/texmf/tex/latex/tubaf-base/TUBAFarbeiten.sty",
+		"/usr/share/texmf/tex/latex/tubaf-base/TUBAFarbeiten.cls",
+		"/usr/share/texmf/tex/latex/tubaf-base/TUBAFarbeitenx.cls",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/Quellen/Bachelorarbeit2.bib",
+		"/home/roesti/.config/sublime-text-2/Packages/LaTeXTools/LaTeXTools Preferences.sublime-settings",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/04-Uebersicht_des_Frameworks/Uebersicht.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/06-Implementierung_mittels_SSIML\\/AR/Implementierung_SSIML.tex",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/07-Zusammmenfassung",
+		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/07-Zusammenfassung/Zusammenfassung.tex"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"include",
+			"if",
+			"while",
+			"if",
+			"textcn",
+			"texttt",
+			"textit",
+			"Sut",
+			"des_Frameworks",
+			"05",
+			"duplicate",
+			"new",
+			"advanced",
+			"locat",
+			"addr",
+			"azuma",
+			"marker",
+			"markerless",
+			"xml",
+			"mxl",
+			"vuforia",
+			"vorher",
+			"delete",
+			"ctrl+r",
+			"25",
+			"1",
+			"50",
+			"delete",
+			"pkg",
+			"msi",
+			"exe",
+			"pkg",
+			"msi",
+			"exe",
+			"tetha_y",
+			"ac",
+			"lego",
+			"Azuma",
+			"Mackay",
+			"%!TEX root = ../../Bachelorarbeit.tex\n\\isubsection{ARToolkit}\nDas ARToolkit ist\n\n%\\begin {comment}\nVorteile:\n\\begin{itemize}\n\\item completly multi-platform\n\\item supports both video and optical see-through augmented reality.(Video see-through AR is where virtual images are overlaid on live video of the real world. The alternative is optical see-through augmented reality, where computer graphics are overlaid directly on a view of the real world.)\n\\item Fast enough for real time AR applications.\n\\end{itemize} \nNachteile:\n\\begin{itemize}\n\\item C and C++ language software library\n\\item Tracking code that uses simple black squares\n\\item Drawing with OpenGL\n\\item must Compile Native Librarys for each Developer Platform\n\\item needs Wrapper for Android and Java (JARToolkit)\n\\item Marker nicht eindeutig\n\\item seit 2007 nicht mehr Weiterentwickelt \n\\end{itemize} \n\\subsubsection*{Vorteile}\n\\begin{itemize}\n\\item einfache API\n\\item Multiplattform Bibliothek(Windows, OSX, Linux, Android, SGI IRIX, Symbian, IPhone)\n\\item Mehrfachtracker möglich\n\\item schnelles Rendern\n\\item VRML Support\n\\item in mehreren Sprachen vorhanden(C, Java, Matlab)\n\\item viele Beispiele vorhanden\n\\item OpenSource\n\\end{itemize}\n\\subsubsection*{Nachteile}\n\\begin{itemize}\n\\item nutzt Vorgefertigte Marker(Quadrate)\n\\item Rendering in Android über OpenGL\n\\item Marker werden von SD-Karte geladen(bei neueren Smartphones nicht mehr vorhanden)\n\\item für mehr Kontrolle müssen native Bibliotheken geschrieben werden\n\\item wird nicht mehr weiterentwickelt\n\\end{itemize}\n% \\end{comment}\n\\clearpage\n",
+			"%!TEX root = ../../Bachelorarbeit.tex\n\\isubsection{ARToolkit}\n	Das ARToolkit ist\n\n	    %\\begin {comment}\n	    	Vorteile:\n	   		\\begin{itemize}\n	   			\\item completly multi-platform\n	   			\\item supports both video and optical see-through augmented reality.(Video see-through AR is where virtual images are overlaid on live video of the real world. The alternative is optical see-through augmented reality, where computer graphics are overlaid directly on a view of the real world.)\n	   			\\item Fast enough for real time AR applications.\n	   		\\end{itemize} \n			Nachteile:\n	   		\\begin{itemize}\n	   			\\item C and C++ language software library\n	   			\\item Tracking code that uses simple black squares\n	   			\\item Drawing with OpenGL\n	   			\\item must Compile Native Librarys for each Developer Platform\n	   			\\item needs Wrapper for Android and Java (JARToolkit)\n	   			\\item Marker nicht eindeutig\n	   			\\item seit 2007 nicht mehr Weiterentwickelt \n	   		\\end{itemize} \n	\\subsubsection*{Vorteile}\n		\\begin{itemize}\n			\\item einfache API\n			\\item Multiplattform Bibliothek(Windows, OSX, Linux, Android, SGI IRIX, Symbian, IPhone)\n			\\item Mehrfachtracker möglich\n			\\item schnelles Rendern\n			\\item VRML Support\n			\\item in mehreren Sprachen vorhanden(C, Java, Matlab)\n			\\item viele Beispiele vorhanden\n			\\item OpenSource\n		\\end{itemize}\n	\\subsubsection*{Nachteile}\n		\\begin{itemize}\n			\\item nutzt Vorgefertigte Marker(Quadrate)\n			\\item Rendering in Android über OpenGL\n			\\item Marker werden von SD-Karte geladen(bei neueren Smartphones nicht mehr vorhanden)\n			\\item für mehr Kontrolle müssen native Bibliotheken geschrieben werden\n			\\item wird nicht mehr weiterentwickelt\n		\\end{itemize}\n	% \\end{comment}\n\\clearpage\n	",
+			"comment",
+			"close",
+			":",
+			"e static final int",
+			"int",
+			"private Button",
+			"upper",
+			"safe",
+			"%\\",
+			"location",
+			"address",
+			"TUBAFV",
+			"Group",
+			"None",
+			"1257",
+			"}",
+			"+n",
+			"advanced",
+			"new_file",
+			"new File",
+			"\\\\",
+			" \\\\",
+			"\\\\",
+			"}@",
+			"}",
+			"}@",
+			"roesti",
+			"<?",
+			"textu",
+			"textures/",
+			"roesti",
+			"IM_texture_front_2_png",
+			"front",
+			"normal",
+			"normal.png",
+			"roesti",
+			"\",",
+			"aux",
+			"\"*",
+			"input",
+			"gz",
+			"include",
+			"}",
+			"include",
+			"input",
+			"{./",
+			".git",
+			"Bibliotheken",
+			"\\input{Bibliotheken/MetaIO}",
+			" \\",
+			"\n\\",
+			"51cm",
+			"61cm",
+			"67cm",
+			"5cm",
+			"2",
+			"p",
+			"isection",
+			"newcommand",
+			"Console",
+			"console",
+			"end",
+			"align",
+			"math",
+			"Alt+/",
+			"space",
+			"Alt+/",
+			"Show_Comp",
+			"Show",
+			"comlpe",
+			"Robert",
+			"Belegaufgabe",
+			"SMALL",
+			";\n",
+			"Shape",
+			"whichChoice",
+			"Switch",
+			"getWindow",
+			"ContentView",
+			"xml"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"section"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/roesti/Daten/Dropbox/Dropbox/own/OSL/test2.osl",
+					"settings":
+					{
+						"buffer_size": 107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								105,
+								105
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"glsv_configured": true,
+							"glsv_enabled": 1.0,
+							"glsv_spec": 0.0,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/OpenShadingLanguage/osl.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/roesti/Daten/Dropbox/Dropbox/own/OSL/ramp.osl",
+					"settings":
+					{
+						"buffer_size": 551,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"glsv_configured": true,
+							"glsv_enabled": 1.0,
+							"glsv_spec": 0.0,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/OpenShadingLanguage/osl.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/roesti/Daten/Dropbox/Dropbox/own/OSL/ramp.osl",
+					"settings":
+					{
+						"buffer_size": 356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								302,
+								302
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"glsv_configured": true,
+							"glsv_enabled": 1.0,
+							"glsv_spec": 0.0,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/OpenShadingLanguage/osl.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/roesti/.config/sublime-text-2/Packages/LaTeXTools/LaTeX.sublime-build",
+					"settings":
+					{
+						"buffer_size": 4232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"glsv_configured": true,
+							"glsv_enabled": 1.0,
+							"glsv_spec": 0.0,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/AAAPackageDev/Support/Sublime Text Build System.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2679.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "osl.sublime-build",
+					"settings":
+					{
+						"buffer_size": 496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								367,
+								367
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"glsv_configured": true,
+							"glsv_enabled": 1.0,
+							"glsv_spec": 0.0,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/AAAPackageDev/Support/Sublime Text Build System.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.aaa_package_dev":
+	{
+		"height": 122.0
+	},
+	"output.exec":
+	{
+		"height": 155.0
+	},
+	"output.git":
+	{
+		"height": 122.0
+	},
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Bachelorarbeit.tex"
+			],
+			[
+				"sty",
+				"bachelorarbeit.sty"
+			],
+			[
+				"d",
+				"04-Uebersicht_des_Frameworks/Design.tex"
+			],
+			[
+				"bib",
+				"Quellen/Bachelorarbeit.bib"
+			],
+			[
+				"ab",
+				"Quellen/Abkuerzung.tex"
+			],
+			[
+				"vi",
+				"03-GrundlagenAR/Technik/Displays/Video_See_Through.tex"
+			],
+			[
+				"bob",
+				"Quellen/Bachelorarbeit.bib"
+			],
+			[
+				"di",
+				"03-GrundlagenAR/Technik/Displays/Optical_See_Through.tex"
+			],
+			[
+				"op",
+				"03-GrundlagenAR/Technik/Tracking/Optisches_Tracking.tex"
+			],
+			[
+				"bb",
+				"Quellen/Bachelorarbeit.bib"
+			],
+			[
+				"se",
+				"03-GrundlagenAR/Technik/Displays/Optical_See_Through.tex"
+			],
+			[
+				"see",
+				"03-GrundlagenAR/Technik/Displays/Optical_See_Through.tex"
+			],
+			[
+				"opt",
+				"03-GrundlagenAR/Technik/Tracking/Optisches_Tracking.tex"
+			],
+			[
+				"optisches_tracking",
+				"03-GrundlagenAR/Technik/Tracking/Optisches_Tracking.tex"
+			],
+			[
+				"o",
+				"03-GrundlagenAR/Technik/Tracking/Optisches_Tracking.tex"
+			],
+			[
+				"tex",
+				"Bachelorarbeit.tex"
+			],
+			[
+				"tr",
+				"03-GrundlagenAR/Technik/Tracking/Optisches_Tracking.tex"
+			],
+			[
+				"tra",
+				"03-GrundlagenAR/Technik/Tracking/Optisches_Tracking.tex"
+			],
+			[
+				"vu",
+				"02-Stand_der_Technik/Frameworks/Vuforia.tex"
+			],
+			[
+				"bac",
+				"Quellen/Bachelorarbeit.bib"
+			],
+			[
+				"ba",
+				"Bachelorarbeit.tex"
+			],
+			[
+				"me",
+				"02-Stand_der_Technik/Frameworks/MetaIO.tex"
+			],
+			[
+				"art",
+				"02-Stand_der_Technik/Frameworks/ARToolkit.tex"
+			],
+			[
+				"po",
+				"02-Stand_der_Technik/Frameworks/Popcode.tex"
+			],
+			[
+				"and",
+				"02-Stand_der_Technik/Frameworks/AndAR.tex"
+			],
+			[
+				"fra",
+				"02-Stand_der_Technik/Aktuelle_Frameworks.tex"
+			],
+			[
+				"too",
+				"02-Stand_der_Technik/Frameworks/ARToolkit.tex"
+			],
+			[
+				"msk",
+				"02-Stand_der_Technik/Frameworks/ARMSK.tex"
+			],
+			[
+				"a",
+				"02-Stand_der_Technik/Frameworks/ARToolkit.tex"
+			],
+			[
+				"arm",
+				"02-Stand_der_Technik/Frameworks/ARMSK.tex"
+			],
+			[
+				"pop",
+				"02-Stand_der_Technik/Frameworks/Popcode.tex"
+			],
+			[
+				"02-",
+				"02-Stand_der_Technik/Frameworks/AndAR.tex"
+			],
+			[
+				"ar",
+				"02-Stand_der_Technik/Frameworks/ARToolkit.tex"
+			],
+			[
+				"armsk",
+				"02-Stand_der_Technik/Frameworks/ARMSK.tex"
+			],
+			[
+				"bach",
+				"Bachelorarbeit.tex"
+			],
+			[
+				"02",
+				"02-Stand_der_Technik/Frameworks/Vuforia.tex"
+			],
+			[
+				"z",
+				"06-Zusammenfassung/Zusammenfassung.tex"
+			],
+			[
+				"i",
+				"Uebersicht_der_Bibliothek/Implementierung.tex"
+			],
+			[
+				"b",
+				"Beleg.tex"
+			],
+			[
+				"g",
+				"/home/roesti/.config/sublime-text-2/Packages/User/Latex/graphicstotab.sublime-snippet"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/roesti/Dropbox/own/OSL/OSL.sublime-project"
+			],
+			[
+				"v",
+				"/home/roesti/Uni/Master/Wissenschaftliche_Visualisierung/VTK/vtk.sublime-project"
+			],
+			[
+				"D",
+				"/home/roesti/Uni/7. Semester/VR-Projekt/doc/Dokumentation/Dokumentation.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true
+}
