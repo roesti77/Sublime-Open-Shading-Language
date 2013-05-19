@@ -101,7 +101,7 @@ shader ${1:wireframe}(
     Wire = wireframe("triangles", Line_Width, Raster);
 }"""
 
-SYNTAX_DEF = 'Packages/OpenShadingLanguage/osl.tmLanguage'
+SYNTAX_DEF = 'Packages/Open Shading Language/osl.tmLanguage'
 
 
 class NewShaderCommand(sublime_plugin.WindowCommand):
