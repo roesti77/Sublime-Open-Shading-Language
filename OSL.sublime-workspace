@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"dr",
+				"dRdy"
+			],
+			[
+				"dR",
+				"dRdx"
+			],
+			[
+				"dis",
+				"displace()	float amp"
+			],
+			[
 				"inclu",
 				"includegraphicstotab"
 			],
@@ -19,44 +31,29 @@
 			"file": "/home/roesti/Daten/Dropbox/Dropbox/own/OSL/test2.osl",
 			"settings":
 			{
-				"buffer_size": 107,
+				"buffer_size": 121,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/roesti/Daten/Dropbox/Dropbox/own/OSL/ramp.osl",
+			"file": "bar",
 			"settings":
 			{
-				"buffer_size": 551,
-				"line_ending": "Unix"
+				"buffer_size": 702,
+				"line_ending": "Unix",
+				"name": "/*reserved words*/"
 			}
 		},
 		{
-			"file": "/home/roesti/Daten/Dropbox/Dropbox/own/OSL/ramp.osl",
+			"file": "osl.JSON-tmLanguage",
 			"settings":
 			{
-				"buffer_size": 356,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/roesti/.config/sublime-text-2/Packages/LaTeXTools/LaTeX.sublime-build",
-			"settings":
-			{
-				"buffer_size": 4232,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "osl.sublime-build",
-			"settings":
-			{
-				"buffer_size": 496,
+				"buffer_size": 4376,
 				"line_ending": "Unix"
 			}
 		}
 	],
-	"build_system": "Packages/OpenShadingLanguage/osl.sublime-build",
+	"build_system": "",
 	"command_palette":
 	{
 		"height": 204.0,
@@ -252,14 +249,34 @@
 	},
 	"file_history":
 	[
+		"/home/roesti/Daten/Dropbox/Dropbox/own/OSL/test.osl",
+		"/home/roesti/.config/sublime-text-2/Packages/OpenShadingLanguage/foo",
+		"/home/roesti/.config/sublime-text-2/Packages/OpenShadingLanguage/osl_misc.sublime-completions",
+		"/home/roesti/.config/sublime-text-2/Packages/OpenShadingLanguage/osl_dictionary.sublime-completions",
+		"/home/roesti/.config/sublime-text-2/Packages/OpenShadingLanguage/osl_keywords.sublime-completions",
+		"/home/roesti/.config/sublime-text-2/Packages/OpenShadingLanguage/osl_render.sublime-completions",
+		"/home/roesti/.config/sublime-text-2/Packages/OpenShadingLanguage/osl_light.sublime-completions",
+		"/home/roesti/.config/sublime-text-2/Packages/OpenShadingLanguage/osl_textures.sublime-completions",
+		"/home/roesti/.config/sublime-text-2/Packages/OpenShadingLanguage/osl_string.sublime-completions",
+		"/home/roesti/.config/sublime-text-2/Packages/OpenShadingLanguage/osl_displacement.sublime-completions",
+		"/home/roesti/.config/sublime-text-2/Packages/OpenShadingLanguage/osl_derivatives.sublime-completions",
+		"/home/roesti/.config/sublime-text-2/Packages/OpenShadingLanguage/osl_pattern.sublime-completions",
+		"/home/roesti/.config/sublime-text-2/Packages/OpenShadingLanguage/osl_geometric.sublime-completions",
+		"/home/roesti/.config/sublime-text-2/Packages/OpenShadingLanguage/osl_variables.sublime-completions",
+		"/home/roesti/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/roesti/Daten/Dropbox/Dropbox/share/Coni/subl.txt",
+		"/home/roesti/Daten/Dropbox/Dropbox/own/OSL/ramp.osl",
+		"/home/roesti/Daten/Dropbox/Dropbox/own/OSL/test2.osl",
+		"/home/roesti/Daten/Dropbox/Dropbox/own/OSL/ramp.oso",
+		"/home/roesti/.config/sublime-text-2/Packages/OpenShadingLanguage/osl (Debug).sublime-build",
+		"/home/roesti/.config/sublime-text-2/Packages/OpenShadingLanguage/osl.sublime-build",
+		"/home/roesti/.config/sublime-text-2/Packages/LaTeXTools/LaTeX.sublime-build",
 		"/home/roesti/.config/sublime-text-2/Packages/OpenShadingLanguage/Main.sublime-menu",
 		"/home/roesti/Daten/sonstiges/Programming/Agrajag/Test/assets/wohnung.x3d",
 		"/home/roesti/Daten/sonstiges/Programming/Agrajag/Test/assets/switch.x3d",
-		"/home/roesti/Daten/Dropbox/Dropbox/own/OSL/ramp.osl",
 		"/home/roesti/.config/sublime-text-2/Packages/OpenShadingLanguage/osl.JSON-tmLanguage",
 		"/home/roesti/.config/sublime-text-2/Packages/OpenShadingLanguage/osl.JSON-tmPreferences",
 		"/home/roesti/.config/sublime-text-2/Packages/OpenGL Shading Language (GLSL)/GLSL.tmLanguage",
-		"/home/roesti/Daten/Dropbox/Dropbox/own/OSL/test.osl",
 		"/home/roesti/Desktop/test.osl",
 		"/home/roesti/.config/sublime-text-2_ba/Backup/20121211144111/Prolog/Prolog.JSON-tmLanguage",
 		"/home/roesti/.config/sublime-text-2/Packages/OpenShadingLanguage/osl.tmLanguage",
@@ -294,7 +311,6 @@
 		"/home/roesti/.config/sublime-text-2/Packages/User/Latex/figuregraphicstotab.sublime-snippet",
 		"/home/roesti/Uni/Bachelorarbeit/SSIML/workspace/AgrajagExample/src/agrajagExample.x3d",
 		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/04-Uebersicht_des_Frameworks/Design.tex",
-		"/home/roesti/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
 		"/home/roesti/Uni/Bachelorarbeit/SSIML/workspace/AgrajagExample/agrajagExample.smf",
 		"/home/roesti/.config/sublime-text-2/Packages/XML/XML.tmLanguage",
 		"/home/roesti/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
@@ -360,26 +376,7 @@
 		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/MetaIO.tex",
 		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/ARToolkit.tex",
 		"/usr/local/src/blender/build/bin/2.64/scripts/addons/io_scene_x3d/export_x3d.py",
-		"/usr/local/src/blender/build/bin/2.64/scripts/addons/io_scene_x3d/__init__.py",
-		"/usr/local/src/blender/build/bin/2.64/scripts/addons_contrib/object_edit_linked.py",
-		"/home/roesti/Daten/sonstiges/Programming/GrandMA2Remote/GrandMA2Remote/src/org/roesti/grandma2/activity/ControlActivity.java",
-		"/home/roesti/.config/sublime-text-2/Packages/User/Latex/comment.sublime-snippet",
-		"/home/roesti/.config/sublime-text-2/Packages/SublimeTODO/Default.sublime-commands",
-		"/home/roesti/.config/sublime-text-2/Packages/User/LaTeXTools Preferences.sublime-settings",
-		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/03-GrundlagenAR/Grundlagen.tex",
-		"/home/roesti/.config/sublime-text-2/Packages/User/LaTeX.sublime-settings",
-		"/home/roesti/.config/sublime-text-2/Packages/LaTeX Track Changes/README.rst",
-		"/home/roesti/.config/sublime-text-2/Packages/LaTeX/LaTeX.tmLanguage",
-		"/home/roesti/.config/sublime-text-2/Packages/LaTeXTools/LaTeX.sublime-build",
-		"/usr/share/texmf/tex/latex/tubaf-base/TUBAFarbeiten.sty",
-		"/usr/share/texmf/tex/latex/tubaf-base/TUBAFarbeiten.cls",
-		"/usr/share/texmf/tex/latex/tubaf-base/TUBAFarbeitenx.cls",
-		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/Quellen/Bachelorarbeit2.bib",
-		"/home/roesti/.config/sublime-text-2/Packages/LaTeXTools/LaTeXTools Preferences.sublime-settings",
-		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/04-Uebersicht_des_Frameworks/Uebersicht.tex",
-		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/06-Implementierung_mittels_SSIML\\/AR/Implementierung_SSIML.tex",
-		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/07-Zusammmenfassung",
-		"/home/roesti/Uni/Bachelorarbeit/Ausarbeitung/07-Zusammenfassung/Zusammenfassung.tex"
+		"/usr/local/src/blender/build/bin/2.64/scripts/addons/io_scene_x3d/__init__.py"
 	],
 	"find":
 	{
@@ -397,6 +394,77 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"int",
+			"storage.type.osl",
+			"int",
+			"\\t",
+			"\",",
+			"()",
+			"\",",
+			"{ \"trigger\": \"",
+			"	]\n}{\n	\"scope\": \"source.osl\",\n\n	\"completions\":\n	[",
+			"{ \"trigger\": \"",
+			"dict_find",
+			"dict_next",
+			"dict_find",
+			"destination",
+			"getattribute",
+			"raytype",
+			"getattribute",
+			"diffuse",
+			"transparent",
+			"refraction",
+			"reflection",
+			"orennayar",
+			"microfacet_beckmann",
+			"ward",
+			"orennayar",
+			"diffuse",
+			"texture",
+			"pointcloud_get",
+			"pointcloud_search",
+			"gettextureinfo",
+			"environment",
+			"texture",
+			"regex_search",
+			"substr",
+			"suffix",
+			"endswith",
+			"prefix",
+			"startswith",
+			"warning",
+			"($",
+			"warning",
+			"format",
+			"printf",
+			"displace",
+			"}\"",
+			"area",
+			"filterwidth",
+			"f",
+			"a",
+			"Dx",
+			"tfloat",
+			"float",
+			"float ",
+			"spline",
+			"random",
+			"cellnoise",
+			"noise",
+			"pnoise",
+			"1:u",
+			"1",
+			"noise",
+			"\\\"perlin\\\", ",
+			"perlin, ",
+			"\\\"perlin\\\",",
+			"perlin, ",
+			"noise",
+			"perlin",
+			"smoothstep",
+			"step",
+			"float",
+			"color",
 			"include",
 			"if",
 			"while",
@@ -453,71 +521,7 @@
 			"Group",
 			"None",
 			"1257",
-			"}",
-			"+n",
-			"advanced",
-			"new_file",
-			"new File",
-			"\\\\",
-			" \\\\",
-			"\\\\",
-			"}@",
-			"}",
-			"}@",
-			"roesti",
-			"<?",
-			"textu",
-			"textures/",
-			"roesti",
-			"IM_texture_front_2_png",
-			"front",
-			"normal",
-			"normal.png",
-			"roesti",
-			"\",",
-			"aux",
-			"\"*",
-			"input",
-			"gz",
-			"include",
-			"}",
-			"include",
-			"input",
-			"{./",
-			".git",
-			"Bibliotheken",
-			"\\input{Bibliotheken/MetaIO}",
-			" \\",
-			"\n\\",
-			"51cm",
-			"61cm",
-			"67cm",
-			"5cm",
-			"2",
-			"p",
-			"isection",
-			"newcommand",
-			"Console",
-			"console",
-			"end",
-			"align",
-			"math",
-			"Alt+/",
-			"space",
-			"Alt+/",
-			"Show_Comp",
-			"Show",
-			"comlpe",
-			"Robert",
-			"Belegaufgabe",
-			"SMALL",
-			";\n",
-			"Shape",
-			"whichChoice",
-			"Switch",
-			"getWindow",
-			"ContentView",
-			"xml"
+			"}"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -536,7 +540,6 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
 				{
@@ -544,15 +547,15 @@
 					"file": "/home/roesti/Daten/Dropbox/Dropbox/own/OSL/test2.osl",
 					"settings":
 					{
-						"buffer_size": 107,
+						"buffer_size": 121,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								105,
-								105
+								118,
+								118
 							]
 						],
 						"settings":
@@ -659,18 +662,18 @@
 				},
 				{
 					"buffer": 1,
-					"file": "/home/roesti/Daten/Dropbox/Dropbox/own/OSL/ramp.osl",
+					"file": "bar",
 					"settings":
 					{
-						"buffer_size": 551,
+						"buffer_size": 702,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								288,
-								288
+								108,
+								108
 							]
 						],
 						"settings":
@@ -681,6 +684,7 @@
 								"README",
 								"FIXME"
 							],
+							"auto_name": "/*reserved words*/",
 							"csslint_options":
 							{
 								"adjoining-classes": "warning",
@@ -767,7 +771,7 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/OpenShadingLanguage/osl.tmLanguage"
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -777,18 +781,18 @@
 				},
 				{
 					"buffer": 2,
-					"file": "/home/roesti/Daten/Dropbox/Dropbox/own/OSL/ramp.osl",
+					"file": "osl.JSON-tmLanguage",
 					"settings":
 					{
-						"buffer_size": 356,
+						"buffer_size": 4376,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								302,
-								302
+								796,
+								796
 							]
 						],
 						"settings":
@@ -885,248 +889,12 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/OpenShadingLanguage/osl.tmLanguage"
+							"syntax": "Packages/AAAPackageDev/Support/Sublime JSON Syntax Definition.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/home/roesti/.config/sublime-text-2/Packages/LaTeXTools/LaTeX.sublime-build",
-					"settings":
-					{
-						"buffer_size": 4232,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110.0
-							],
-							"gjslint_options":
-							[
-							],
-							"glsv_configured": true,
-							"glsv_enabled": 1.0,
-							"glsv_spec": 0.0,
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2.0,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/AAAPackageDev/Support/Sublime Text Build System.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 2679.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "osl.sublime-build",
-					"settings":
-					{
-						"buffer_size": 496,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								367,
-								367
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110.0
-							],
-							"gjslint_options":
-							[
-							],
-							"glsv_configured": true,
-							"glsv_enabled": 1.0,
-							"glsv_spec": 0.0,
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2.0,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/AAAPackageDev/Support/Sublime Text Build System.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 375.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1188,8 +956,36 @@
 		"selected_items":
 		[
 			[
+				"f",
+				"OpenShadingLanguage/foo"
+			],
+			[
+				"mis",
+				"OpenShadingLanguage/osl_misc.sublime-completions"
+			],
+			[
+				"dis",
+				"OpenShadingLanguage/osl_displacement.sublime-completions"
+			],
+			[
+				"pat",
+				"OpenShadingLanguage/osl_pattern.sublime-completions"
+			],
+			[
 				"",
-				"Bachelorarbeit.tex"
+				"OpenShadingLanguage/osl_geometric.sublime-completions"
+			],
+			[
+				"var",
+				"OpenShadingLanguage/osl_variables.sublime-completions"
+			],
+			[
+				"geo",
+				"OpenShadingLanguage/osl_geometric.sublime-completions"
+			],
+			[
+				"test",
+				"OSL/test2.osl"
 			],
 			[
 				"sty",
@@ -1374,6 +1170,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 208.0,
+	"side_bar_width": 296.0,
 	"status_bar_visible": true
 }

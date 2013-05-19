@@ -1,0 +1,120 @@
+{ "name": "Open Shading Language",
+  "scopeName": "source.osl",
+  "fileTypes": ["osl"],
+  "foldingStartMarker": "/\\*\\*|\\{\\s*$", 
+  "foldingStopMarker": "\\*\\*/|^\\s*\\}", 
+  "patterns": [
+  {
+     "include": "#special_block"
+  },
+  {
+  "match": "/\\*\\*/", 
+  "name": "comment.block.empty.osl" 
+  },
+  {
+  "match": "(==|!=|<=|>=|<>|<|>)", 
+  "name": "keyword.operator.comparison.osl"
+  }, 
+  {
+  "match": "(=)", 
+  "name": "keyword.operator.assignment.osl"
+  }, 
+  {
+  "match": "(\\-\\-|\\+\\+)", 
+  "name": "keyword.operator.increment-decrement.osl"
+  }, 
+  {
+  "match": "(!|&&|\\|\\|)", 
+  "name": "keyword.operator.logical.osl"
+  }, 
+  {
+  "match": "(?<=\\S)\\.(?=\\S)", 
+  "name": "keyword.operator.dereference.osl"
+  },  
+  {
+  "match": ";", 
+  "name": "punctuation.terminator.osl"
+  },
+  {
+  "match": ",", 
+  "name": "punctuation.seperator.property.osl"
+  },
+  {
+  "begin": "(int|float|matrix|point|string|struct|color|emit|illuminance|illuminate|normal|bool|char|const|double|enum|long|short|signed|uniform|union|unsigned)(\\()", 
+  "end": "(?<=\\))", 
+  "patterns": [
+      {
+          "include": "#object-types"
+      }, 
+      {
+          "begin": "\\(", 
+          "beginCaptures": {
+              "1": {
+                  "name": "storage.type.osl"
+              }
+          }, 
+          "end": "\\)", 
+          "patterns": [
+              {
+                  "include": "$self"
+              }
+          ]
+      }
+  ]
+  }, 
+  {
+   	"match": "\\b(break|case|continue|default|discard|do|else|for|if|return|switch|while|goto)\\b",
+    "name": "keyword.control.osl"
+  },
+  {
+    "match": "\\b(aastep|abs|acos|area|arraylength|asin|atan|atan2|blackbody|bump|calculatenormal|ceil|cellnoise|clamp|color|concat|cooktorrance|cos|cosh|cross|degrees|determinant|dict_find|dict_next|dict_value|dielectric|diffuse|displace|distance|dot|Dx|Dy|Dz|emission|endswith|environment|erf|erfc|error|exit|exp|exp2|expm1|fabs|faceforward|filterwidth|floor|fmod|format|fprintf|fresnel|getattribute|getattribute|getmatrix|getmessage|gettextureinfo|hash|hypot|hypot|inversesqrt|isconnected|isfinite|isinf|isnan|length|log|log10|log2|logb|luminance|matrix|max|microfacet_beckmann|microfacet_ggx|min|mix|mod|noise|normalize|orennayar|phong|pnoise|pointcloud_get|pointcloud_search|pointcloud_write|pow|printf|psnoise|ptype|radians|random|raytype|reflect|reflection|refract|refraction|regex_match|regex_search|rotate|round|setmessage|sign|sin|sincos|sinh|smoothstep|snoise|spline|splineinverse|sqrt|startswith|step|strlen|substr|subsurface|surfacearea|tan|tanh|texture|texture3d|trace|transform|transformc|transformu|translucence|transparent|transpose|trunc|ward|warning|wavelength_color)\\b",
+     "name": "support.function.osl"
+  },
+  {
+    "match": "\\b(P|I|N|Ng|u|v|dPdu|dPdv|Ps|time|dtime|dPdtime|Ci)\\b",
+    "name": "variable.language.osl"
+  },
+  {
+    "match": "\\b(M_PI|M_PI_2|M_PI_4|M_2_PI|M_2PI|M_4PI|M_2_SQRTPI|M_E|M_LN2|M_LN10|M_LOG2E|LOG10E|M_SQRT2|M_SQTR1_2)\\b",
+    "name": "constant.numeric.osl"
+  },
+  {
+    "match": "\\b(output|class|extern|false|friend|inline|closure)\\b",
+    "name": "support.type.osl"
+  },
+  {
+    "match": "\\b(common|object|world|camera|screen|raster|NDC)\\b",
+    "name": "support.type.osl"
+  },
+  {
+    "match": "\\b(description|URL|units|normalized|UIlabel|UImin|UImax|UIsoftmin|UIsoftmax|UIstep|UIenabler|UIseparator|IOgroupbegin|UIgroupend|UItype)\\b",
+    "name": "meta.keyword.other.osl"
+  },
+  {
+    "match": "\\b(int|float|matrix|point|string|struct|color|emit|illuminance|illuminate|normal|bool|char|const|double|enum|long|short|signed|uniform|union|unsigned)\\b",
+    "name": "storage.type.osl"
+  },
+  {
+    "match": "\\b(int|float|matrix|point|string|struct|color|emit|illuminance|illuminate|normal|bool|char|const|double|enum|long|short|signed|uniform|union|unsigned)(\\[\\])*\\b",
+    "name": "storage.type.array.osl"
+  },
+  {
+    "match": "\\b(int|float|matrix|point|string|struct|color|bool|char|const|double|long|short)(\\()\\b",
+    "name": "storage.type.array.osl"
+  },
+  {
+    "match": "\\b(shader|surface|displacement|light|volume)\\b",
+    "name": "constant.language.osl"
+  },
+  { "match": "([A-Za-z_0-9][A-Za-z0-9_$]+)",
+  "name": "variable.parameter.osl"
+  },
+  { "match": "([A-Za-z]{1})",
+  "name": "variable.parameter.osl"
+  },
+  {
+    "include": "source.c"
+  }
+  ],
+  "uuid": "ebe9ab75-b9fa-48bc-86b0-8fa92c7df193"
+}
