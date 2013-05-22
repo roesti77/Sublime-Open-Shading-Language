@@ -1,7 +1,7 @@
 import sublime_plugin
 
 from os import path
-
+from sublime_lib import path
 
 shad = """#include "stdosl.h"
 
