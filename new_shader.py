@@ -1,7 +1,5 @@
-import sublime_plugin
-
-from os import path
-from sublime_lib import path
+import sublime, sublime_plugin
+import os
 
 shad = """#include "stdosl.h"
 
@@ -107,49 +105,68 @@ SYNTAX_DEF = 'Packages/Open Shading Language/osl.tmLanguage'
 class NewShaderCommand(sublime_plugin.WindowCommand):
     def run(self):
         v = self.window.new_file()
-        v.run_command('insert_snippet', {'contents': shad})
-        v.settings().set('default_dir', path.root_at_packages('User'))
+        v.settings().set('default_dir',
+            os.path.join(sublime.packages_path(), 'User'))
+        v.settings().set('default_extension', 'osl')
         v.set_syntax_file(SYNTAX_DEF)
+        v.run_command("insert_snippet", {"contents": shad})
+
 
 
 class NewNoiseShaderCommand(sublime_plugin.WindowCommand):
     def run(self):
         v = self.window.new_file()
-        v.run_command('insert_snippet', {'contents': noise})
-        v.settings().set('default_dir', path.root_at_packages('User'))
+        v.settings().set('default_dir',
+            os.path.join(sublime.packages_path(), 'User'))
+        v.settings().set('default_extension', 'osl')
         v.set_syntax_file(SYNTAX_DEF)
+        v.run_command("insert_snippet", {"contents": noise})
+
 
 class NewRampShaderCommand(sublime_plugin.WindowCommand):
     def run(self):
         v = self.window.new_file()
-        v.run_command('insert_snippet', {'contents': ramp})
-        v.settings().set('default_dir', path.root_at_packages('User'))
+        v.settings().set('default_dir',
+            os.path.join(sublime.packages_path(), 'User'))
+        v.settings().set('default_extension', 'osl')
         v.set_syntax_file(SYNTAX_DEF)
+        v.run_command("insert_snippet", {"contents": ramp})
+
 
 class NewTempShaderCommand(sublime_plugin.WindowCommand):
     def run(self):
         v = self.window.new_file()
-        v.run_command('insert_snippet', {'contents': temp})
-        v.settings().set('default_dir', path.root_at_packages('User'))
+        v.settings().set('default_dir',
+            os.path.join(sublime.packages_path(), 'User'))
+        v.settings().set('default_extension', 'osl')
         v.set_syntax_file(SYNTAX_DEF)
+        v.run_command("insert_snippet", {"contents": temp})
+
 
 class NewToonShaderCommand(sublime_plugin.WindowCommand):
     def run(self):
         v = self.window.new_file()
-        v.run_command('insert_snippet', {'contents': toon})
-        v.settings().set('default_dir', path.root_at_packages('User'))
+        v.settings().set('default_dir',
+            os.path.join(sublime.packages_path(), 'User'))
+        v.settings().set('default_extension', 'osl')
         v.set_syntax_file(SYNTAX_DEF)
+        v.run_command("insert_snippet", {"contents": toon})
 
 class NewWaveShaderCommand(sublime_plugin.WindowCommand):
     def run(self):
         v = self.window.new_file()
-        v.run_command('insert_snippet', {'contents': wave})
-        v.settings().set('default_dir', path.root_at_packages('User'))
+        v.settings().set('default_dir',
+            os.path.join(sublime.packages_path(), 'User'))
+        v.settings().set('default_extension', 'osl')
         v.set_syntax_file(SYNTAX_DEF)
+        v.run_command("insert_snippet", {"contents": wave})
+
 
 class NewWireShaderCommand(sublime_plugin.WindowCommand):
     def run(self):
         v = self.window.new_file()
-        v.run_command('insert_snippet', {'contents': wire})
-        v.settings().set('default_dir', path.root_at_packages('User'))
+        v.settings().set('default_dir',
+            os.path.join(sublime.packages_path(), 'User'))
+        v.settings().set('default_extension', 'osl')
         v.set_syntax_file(SYNTAX_DEF)
+        v.run_command("insert_snippet", {"contents": wire})
