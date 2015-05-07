@@ -10,6 +10,8 @@ Install it via Package Control or clone the Repository in your Sublime Package F
 
 git clone https://github.com/roesti77/Sublime-Open-Shading-Language.git Open\ Shading\ Language
 
+For Sublime Text 3 checkout the Branch SublimeText3
+
 Create new Shader
 =================
 Go to Tools -> Packages -> Open Shading Language -> new Shader.
