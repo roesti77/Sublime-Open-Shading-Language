@@ -1,0 +1,12 @@
+{
+	"scope": "source.osl",
+
+	"completions":
+	[
+		{ "trigger": "result", "contents" : "result" },
+		{ "trigger": "outFloat", "contents": "outFloat" },
+        { "trigger": "outColor", "contents": "outColor" },
+        { "trigger": "outVector", "contents": "outVector" },
+        { "trigger": "outClosureColor", "contents": "outClosureColor" },
+	]
+}

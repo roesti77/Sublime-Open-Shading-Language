@@ -120,6 +120,12 @@
 		</dict>
 		<dict>
 			<key>match</key>
+			<string>\b(result|outFloat|outColor|outVector|outClosureColor)\b</string>
+			<key>name</key>
+			<string>string.language.osl</string>
+		</dict>
+		<dict>
+			<key>match</key>
 			<string>\b(M_PI|M_PI_2|M_PI_4|M_2_PI|M_2PI|M_4PI|M_2_SQRTPI|M_E|M_LN2|M_LN10|M_LOG2E|LOG10E|M_SQRT2|M_SQTR1_2)\b</string>
 			<key>name</key>
 			<string>constant.numeric.osl</string>
