@@ -1,14 +1,19 @@
 =============================
+
 Sublime Open Shading Language
+
 =============================
 
 This Package includes Syntax Highliting and Autocompletion for Open Shading Language.
 
 Installation
 ============
-Install it via Package Control or clone the Repository in your Sublime Package Folder.
 
-git clone https://github.com/roesti77/Sublime-Open-Shading-Language.git Open\ Shading\ Language
+Clone the Repository in your Sublime Package Folder.
+
+git clone https://github.com/iceprincefounder/Sublime-Open-Shading-Language.git
+cd Sublime-Open-Shading-Language
+git checkout update # checkout to new branch with update
 
 Create new Shader
 =================

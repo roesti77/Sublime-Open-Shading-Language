@@ -4,10 +4,12 @@
 	"completions":
 	[
 		{ "trigger": "diffuse()\tnormal N, params", "contents": "diffuse(${1:N}, ${2:params...})"},
-		{ "trigger": "orennayar()\tN, roughness, params", "contents": "orennayar(${1:N}, ${2:roughness}, ${3:params...})"},
 		{ "trigger": "phong()\tN, exponent, params", "contents": "phong(${1:N}, ${2:exponent}, ${3:params...})"},
+		{ "trigger": "orennayar()\tN, roughness, params", "contents": "orennayar(${1:N}, ${2:roughness}, ${3:params...})"},
 		{ "trigger": "cooktorrance()\tN, roughness, params", "contents": "cooktorrance(${1:N}, ${2:roughness}, ${3:params...})"},
 		{ "trigger": "ward()\tN, T, ...", "contents": "ward(${1:N}, ${2:T}, ${3:xrough}, ${4:yrough}, ${5:params...})"},
+		{ "trigger": "microfacet()\tdistribution, N, ...", "contents": "microfacet(${1:distribution}, ${2:N}, ${3:alpha}, ${4:eta}, ${5:refracti})"},
+		{ "trigger": "microfacet()\tdistribution, N, U, ...", "contents": "microfacet(${1:distribution}, ${2:N}, ${3:U}, ${4:xalpha}, ${5:yalpha}, ${6:eta}, ${7:refracti})"},
 		{ "trigger": "microfacet_beckmann()\tN, roughness, ...", "contents": "microfacet_beckmann(${1:N}, ${2:roughness}, ${3:eta}, ${4:params...})"},
 		{ "trigger": "microfacet_ggx()\tN, roughness, ...", "contents": "microfacet_ggx(${1:N}, ${2:roughness}, ${3:eta}, ${4:params...})"},
 		{ "trigger": "reflection()\tN, eta, params", "contents": "reflection(${1:N}, ${2:eta}, ${3:params...})"},
