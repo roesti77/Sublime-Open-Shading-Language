@@ -14,6 +14,13 @@ cd Sublime-Open-Shading-Language
 git checkout update # checkout to new branch with update
 ```
 
+Copy this folder to Sublime, by default:
+
+```
+/home/<usrname>/.config/sublime-text-3/Packages
+```
+
+
 Create new Shader
 =================
 Go to Tools -> Packages -> Open Shading Language -> new Shader.
