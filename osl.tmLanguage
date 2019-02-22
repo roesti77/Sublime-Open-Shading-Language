@@ -38,7 +38,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>(\-\-|\+\+)</string>
+			<string>(\-\-|\+\+|\#include|\#pragma)</string>
 			<key>name</key>
 			<string>keyword.operator.increment-decrement.osl</string>
 		</dict>
@@ -120,9 +120,9 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(result|outFloat|outColor|outVector|outClosureColor)\b</string>
+			<string>\b(result|out)\b</string>
 			<key>name</key>
-			<string>string.language.osl</string>
+			<string>keyword.control.osl</string>
 		</dict>
 		<dict>
 			<key>match</key>
@@ -150,19 +150,19 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(int|float|vector|matrix|point|string|struct|color|emit|illuminance|illuminate|normal|bool|char|const|double|enum|long|short|signed|uniform|union|unsigned)\b</string>
+			<string>\b(int|float|vector|matrix|point|string|struct|color|emit|illuminance|illuminate|normal|bool|char|const|double|enum|long|short|signed|uniform|union|unsigned|void)\b</string>
 			<key>name</key>
 			<string>storage.type.osl</string>
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(int|float|vector|matrix|point|string|struct|color|emit|illuminance|illuminate|normal|bool|char|const|double|enum|long|short|signed|uniform|union|unsigned)(\[\])*\b</string>
+			<string>\b(int|float|vector|matrix|point|string|struct|color|emit|illuminance|illuminate|normal|bool|char|const|double|enum|long|short|signed|uniform|union|unsigned|void)(\[\])*\b</string>
 			<key>name</key>
 			<string>storage.type.array.osl</string>
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(int|float|vector|matrix|point|string|struct|color|bool|char|const|double|long|short)(\()\b</string>
+			<string>\b(int|float|vector|matrix|point|string|struct|color|bool|char|const|double|long|short|void)(\()\b</string>
 			<key>name</key>
 			<string>storage.type.array.osl</string>
 		</dict>
