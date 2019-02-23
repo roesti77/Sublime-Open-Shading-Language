@@ -38,7 +38,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>(\-\-|\+\+)</string>
+			<string>(\-\-|\+\+|\#include|\#pragma)</string>
 			<key>name</key>
 			<string>keyword.operator.increment-decrement.osl</string>
 		</dict>
@@ -68,7 +68,7 @@
 		</dict>
 		<dict>
 			<key>begin</key>
-			<string>(int|float|matrix|point|string|struct|color|emit|illuminance|illuminate|normal|bool|char|const|double|enum|long|short|signed|uniform|union|unsigned)(\()</string>
+			<string>(int|float|vector|matrix|point|string|struct|color|emit|illuminance|illuminate|normal|bool|char|const|double|enum|long|short|signed|uniform|union|unsigned)(\()</string>
 			<key>end</key>
 			<string>(?&lt;=\))</string>
 			<key>patterns</key>
@@ -108,7 +108,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(aastep|abs|acos|area|arraylength|asin|atan|atan2|blackbody|bump|calculatenormal|ceil|cellnoise|clamp|color|concat|cooktorrance|cos|cosh|cross|degrees|determinant|dict_find|dict_next|dict_value|dielectric|diffuse|displace|distance|dot|Dx|Dy|Dz|emission|endswith|environment|erf|erfc|error|exit|exp|exp2|expm1|fabs|faceforward|filterwidth|floor|fmod|format|fprintf|fresnel|getattribute|getattribute|getmatrix|getmessage|gettextureinfo|hash|hypot|hypot|inversesqrt|isconnected|isfinite|isinf|isnan|length|log|log10|log2|logb|luminance|matrix|max|microfacet_beckmann|microfacet_ggx|min|mix|mod|noise|normalize|orennayar|phong|pnoise|pointcloud_get|pointcloud_search|pointcloud_write|pow|printf|psnoise|ptype|radians|random|raytype|reflect|reflection|refract|refraction|regex_match|regex_search|rotate|round|setmessage|sign|sin|sincos|sinh|smoothstep|snoise|spline|splineinverse|sqrt|startswith|step|strlen|substr|subsurface|surfacearea|tan|tanh|texture|texture3d|trace|transform|transformc|transformu|translucence|transparent|transpose|trunc|ward|warning|wavelength_color)\b</string>
+			<string>\b(aastep|abs|acos|area|arraylength|asin|atan|atan2|blackbody|bump|calculatenormal|ceil|cellnoise|clamp|color|concat|cooktorrance|cos|cosh|cross|degrees|determinant|dict_find|dict_next|dict_value|dielectric|diffuse|displace|distance|dot|Dx|Dy|Dz|emission|endswith|environment|erf|erfc|error|exit|exp|exp2|expm1|fabs|faceforward|filterwidth|floor|fmod|format|fprintf|fresnel|getattribute|getattribute|getmatrix|getmessage|gettextureinfo|hash|hypot|hypot|inversesqrt|isconnected|isfinite|isinf|isnan|length|log|log10|log2|logb|luminance|matrix|max|microfacet|microfacet_beckmann|microfacet_ggx|min|mix|mod|noise|normalize|orennayar|phong|pnoise|pointcloud_get|pointcloud_search|pointcloud_write|pow|printf|psnoise|ptype|radians|random|raytype|reflect|reflection|refract|refraction|regex_match|regex_search|rotate|round|setmessage|sign|sin|sincos|sinh|smoothstep|snoise|spline|splineinverse|sqrt|startswith|step|strlen|substr|subsurface|surfacearea|tan|tanh|texture|texture3d|trace|transform|transformc|transformu|translucence|transparent|transpose|trunc|ward|warning|wavelength_color)\b</string>
 			<key>name</key>
 			<string>support.function.osl</string>
 		</dict>
@@ -117,6 +117,12 @@
 			<string>\b(P|I|N|Ng|u|v|dPdu|dPdv|Ps|time|dtime|dPdtime|Ci)\b</string>
 			<key>name</key>
 			<string>variable.language.osl</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(result|out)\b</string>
+			<key>name</key>
+			<string>keyword.control.osl</string>
 		</dict>
 		<dict>
 			<key>match</key>
@@ -144,19 +150,19 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(int|float|matrix|point|string|struct|color|emit|illuminance|illuminate|normal|bool|char|const|double|enum|long|short|signed|uniform|union|unsigned)\b</string>
+			<string>\b(int|float|vector|matrix|point|string|struct|color|emit|illuminance|illuminate|normal|bool|char|const|double|enum|long|short|signed|uniform|union|unsigned|void)\b</string>
 			<key>name</key>
 			<string>storage.type.osl</string>
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(int|float|matrix|point|string|struct|color|emit|illuminance|illuminate|normal|bool|char|const|double|enum|long|short|signed|uniform|union|unsigned)(\[\])*\b</string>
+			<string>\b(int|float|vector|matrix|point|string|struct|color|emit|illuminance|illuminate|normal|bool|char|const|double|enum|long|short|signed|uniform|union|unsigned|void)(\[\])*\b</string>
 			<key>name</key>
 			<string>storage.type.array.osl</string>
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(int|float|matrix|point|string|struct|color|bool|char|const|double|long|short)(\()\b</string>
+			<string>\b(int|float|vector|matrix|point|string|struct|color|bool|char|const|double|long|short|void)(\()\b</string>
 			<key>name</key>
 			<string>storage.type.array.osl</string>
 		</dict>
